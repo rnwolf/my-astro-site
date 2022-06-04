@@ -11,4 +11,4 @@ This is some text.
 
 <!-- A local image relative to the markdown file -->
 
-![A local image](./portrait.jpg)
+![A local image](../images/portrait.jpg)
